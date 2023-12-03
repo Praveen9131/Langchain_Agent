@@ -1,0 +1,4 @@
+langchain
+gradio
+google-search-results
+openai
