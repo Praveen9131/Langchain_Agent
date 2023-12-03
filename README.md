@@ -38,7 +38,7 @@ Before you begin, make sure you have the following:
 ## Gradio Interface 
 ![Screenshot (47)](https://github.com/Praveen9131/Langchain_Agent/assets/121826658/0ef91abe-336a-40dd-9ce3-a3d654a7fcb8)
 
-[![Watch the video](path/to/your/thumbnail.jpg)](https://praveen9131.github.io/Langchain_Agent/video.html)
+[![Watch the video](path/to/your/thumbnail.jpg)](https://drive.google.com/file/d/15kni9o9zgx8wLMv_iUXGctFG4vLIAoUm/view?usp=sharing)
 
 
 
